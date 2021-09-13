@@ -4,7 +4,7 @@ $END$
 
 <script>
 export default {
-name: "App.vue"
+name: "Tip.vue"
 }
 </script>
 
